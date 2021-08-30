@@ -1,0 +1,44 @@
+{
+  "mailgun_failed_load_api_key": "Falha ao carregar a API key do MailGun.",
+  "mailgun_failed_load_domain": "Falha ao carregar o domínio do MailGun.",
+  "mailgun_error_send_email": "Erro no envio do email de confirmação. O registro do usuário falhou.",
+
+  "confirmation_not_found": "Referência de confirmação não encontrada.",
+  "confirmation_link_expired": "O link expirou.",
+  "confirmation_already_confirmed": "O registro já foi confirmado.",
+  "confirmation_resend_fail": "Erro interno do servidor. Falha ao reenviar o email de confirmação.",
+  "confirmation_resend_successful": "Email de confirmação reenviado com sucesso.",
+
+  "item_name_exists": "Um item com o nome '{}' já existe.",
+  "item_error_inserting": "Um erro ocorreu enquanto o item era inserido.",
+  "item_not_found": "Item não encontrado.",
+  "item_deleted": "Item apagado.",
+
+  "store_name_exists": "Uma loja com o nome '{}' já existe.",
+  "store_error_inserting": "Um erro ocorreu enquanto a loja era inserida.",
+  "store_not_found": "Loja não encontrada.",
+  "store_deleted": "Loja apagada.",
+
+  "user_username_exists": "Um usuário com esse username já existe.",
+  "user_email_exists": "Um usuário com esse email já existe.",
+  "user_not_found": "Usuário não encontrado.",
+  "user_deleted": "Usuário apagado.",
+  "user_invalid_credentials": "Credencial inválida!",
+  "user_logged_out": "Usuário <id={}> desconectado com sucesso.",
+  "user_not_confirmed": "Você não confirmou seu registro, por favor cheque seu email <{}>.",
+  "user_error_creating": "Erro interno do servidor. Falha ao criar usuário.",
+  "user_registered": "Conta criada com sucesso, um email com o link para ativação foi enviado para seu email, por favor cheque.",
+
+  "image_uploaded": "Imagem '{}' carregada.",
+  "image_illegal_extension": "Extensão '{}' não permitida.",
+  "image_illegal_filename": "Nome de arquivo não permitido '{}'.",
+  "image_not_found": "Imagem '{}' não encontrada.",
+  "image_delete": "Imagem '{}' apagada.",
+  "image_delete_failed": "Erro interno do servidor! Falha ao deletar imagem.",
+
+  "avatar_delete": "Avatar '{}' carregado.",
+  "avatar_delete_failed": "Erro interno do servidor! Falha ao deletar avatar.",
+  "avatar_not_found": "Avatar não encontrado.",
+
+  "order_item_id_not_found": "Item com o id '{}' não encontrado neste pedido."
+}
